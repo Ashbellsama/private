@@ -1,0 +1,44 @@
+{
+  "urls": [
+    {
+      "url": "https://9877.kstore.space/AnotherD/api.json",
+      "name": "潇洒"
+    }, 
+    {
+      "url": "clan://localhost/TVBoxOSC/tvbox/api.json",
+      "name": "潇洒本地包"
+    },
+    {
+      "url": "https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/mi.json",
+      "name": "小米"
+    }, 
+    {
+      "url": "https://欧歌.v.nxog.top/m/",
+      "name": "讴歌"
+    },
+    {
+      "url": "http://hb.小虎斑.site:25252/仅供测试",
+      "name": "小虎斑"
+    },
+    {
+      "url": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "林中小屋"
+    },
+    {
+      "url": "http://www.饭太硬.com/tv",
+      "name": "饭太硬"
+    },
+    {
+      "url": "http://ok321.top/ok",
+      "name": "OK猫"
+    }, 
+    {
+      "url": "https://raw.githubusercontent.com/Nancy0308/TVbox-interface/refs/heads/main/福利接口.txt",
+      "name": "18"
+    },   
+    {
+      "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/config.bin",
+      "name": "多多"
+    }
+  ]
+}
