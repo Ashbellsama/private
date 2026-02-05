@@ -1,5 +1,5 @@
 {
-  "spider": "./spider.jar",
+  "spider": "https://raw.githubusercontent.com/Ashbellsama/private/refs/heads/main/jarspider.jar",
   "wallpaper": "https://imgs.catvod.com",
   "logo": "https://tvbox.catvod.com/logo.png",
   "sites": [
@@ -124,7 +124,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "api": "./lib/AppV2.py",
-      "jar": "https://gitee.com/Ashbellsama/private/blob/master/jar/MI.txt",
+      "jar": "https://raw.githubusercontent.com/Ashbellsama/private/refs/heads/main/jar/MI.txt",
       "playerType": 2,
       "ext": {
         "api": "http://dmmax.kuailezhuiju2.com/icciu_api.php/v1.vod",
@@ -140,7 +140,7 @@
       "changeable": "1",
       "quickSearch": 0,
       "filterable": 1,
-      "jar": "https://gitee.com/Ashbellsama/private/blob/master/jar/MI.txt",
+      "jar": "https://raw.githubusercontent.com/Ashbellsama/private/refs/heads/main/jar/MI.txt",
       "ext": "pghUv+IPbIqGFEhny2nISuI5KzOEA1E0lc1jMsyog/OYwSADcPIna2eOlbOHVLkxfaciWdUITQtbDmt+qom9ENpFk8PYiGW3Ok/qBCmdLsmWed+ubyWhFhJBO8G5jndGBe/2yWKwSfOfwltStIjfIonlvW29sV3oVB3bvbNqdRPbhqZd6KLYcnjTjAkFS8P+Gj/dwFwnqEsxLbt7tedYkDxXppaf6+OlFSFGjP4N4ap6a4HeFxzEA8gvRjZHjdm4QY7pMPO97onIDURjSzahvUKoWAyUcUl5phoWOQrudz2VcIdF/NHTC7yBAAUIKhhagMgCW9kIXeKXu2xYcEKIPKS1iMuEOmLfrzcG8yk9hz8="
     },
     {
@@ -151,7 +151,7 @@
       "changeable": "1",
       "quickSearch": 0,
       "filterable": 1,
-      "jar": "https://gitee.com/Ashbellsama/private/blob/master/jar/MI.txt",
+      "jar": "https://raw.githubusercontent.com/Ashbellsama/private/refs/heads/main/jar/MI.txt",
       "ext": "N/01JeZBCBEQ0wOXNuAI/kwsk5p8MqEDFtLQfMnVixDNodW6h3yknJ0O47HN+ySzcqHSPQtTeHgAvnMVMolGPqTNRfEJ/8Ig5H0hTsHFjNGXL5OVpWSZap4nLlzZ9pC6ySFwrNbAc+iqlFCc6z5KL6GjhpXci7bkuo8YCmxG8LkVMThjtRobWKZ1e3OUf8iC59/IyFSC+uQsfZ1rrWFNaZQt+eFNaeVHeMjfA7SOcNV+pkm+lX4Gat7MacLYC9LljY+gazPVjkD5hfN4kOg2pDcdLcQRWnylKs4RrxKVvq1qtoJicNIMxej65Xg+Dr1utKuFqyKRxre38NOR3dI+nG+WBoDgBsil76zpdeFboyEih33jRIbJ0QXY11r7XTDsVV2LaQb+dJaJbY1LEl7rEF/BaE+Ynj1X+sVapCX5Bi2IG68t3waAsQz5dq/1NzjTRQTg9OtFW05LL1UeJTmSeoepyNfixFoonivaJleB4G8="
     },
     {
@@ -162,7 +162,7 @@
       "changeable": "1",
       "quickSearch": 0,
       "filterable": 1,
-      "jar": "https://gitee.com/Ashbellsama/private/blob/master/jar/MI.txt",
+      "jar": "https://raw.githubusercontent.com/Ashbellsama/private/refs/heads/main/jar/MI.txt",
       "ext": "pghUv+IPbIqGFEhny2nISqwnd+ZrLZS4oOovoDKrPwYhc6bnxBhXj1yUmpQGo2dda4yKJA0rzNerKhlHbvHl2NW8J2/czPb8KoXWysWftEuunGdjctZYVk9kaYo9OOTce8YVqdhI8ypdGZCEcUzz2pWMwXc39sUREXkM2amM4x0Gl/gkP1RjYRQL3DAR1p96sdLh6Es3IRBp6pTNo5dRq8O3FFYM5IsRns9nK3/E1xuw4B7dLtmmtV+DuxfedWwn4SvT2c9mBH5Z+0qwyZtR2C647k60KDtO8wb6sSYYFsjA/CmuM5PTIx03nY2J3EQEuiBIm29b7NB7zZEWmPR34U//7AYgoku20jOO0uigRZf5oPzxxQzu+7pc+aSufNUb"
     },
     {
