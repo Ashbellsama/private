@@ -155,6 +155,17 @@
       "jar": "https://raw.githubusercontent.com/Ashbellsama/private/refs/heads/main/jar/MI.txt",
       "ext": "pghUv+IPbIqGFEhny2nISqwnd+ZrLZS4oOovoDKrPwYhc6bnxBhXj1yUmpQGo2dda4yKJA0rzNerKhlHbvHl2NW8J2/czPb8KoXWysWftEuunGdjctZYVk9kaYo9OOTce8YVqdhI8ypdGZCEcUzz2pWMwXc39sUREXkM2amM4x0Gl/gkP1RjYRQL3DAR1p96sdLh6Es3IRBp6pTNo5dRq8O3FFYM5IsRns9nK3/E1xuw4B7dLtmmtV+DuxfedWwn4SvT2c9mBH5Z+0qwyZtR2C647k60KDtO8wb6sSYYFsjA/CmuM5PTIx03nY2J3EQEuiBIm29b7NB7zZEWmPR34U//7AYgoku20jOO0uigRZf5oPzxxQzu+7pc+aSufNUb"
     },
+          {
+      "key": "橘子",
+      "name": "橘子｜影视",
+      "type": 3,
+      "api": "csp_AppGetV2",
+      "changeable": "1",
+      "quickSearch": 0,
+      "filterable": 1,
+      "jar": "https://raw.githubusercontent.com/Ashbellsama/private/refs/heads/main/jar/MI.txt",
+      "ext": "pghUv+IPbIqGFEhny2nISk+xygMDLIUeoyKFU8yxKlNVrgrcirdV3YINpNZnwDWWlJoI1+YwCT971kI1lcLM0tzIyHBz96Ly2iz/tFqjAerxg6klaKzTwi6jg5OOo6Mwvnbg/KZWUzU+J7aDaHc72Nucd9aASNNVEfOZ2/3HXtYs3eu8yJM7+mLSvr5mRz9+k4L/WI59yc+PqdX8OqL8HylGowei2F3008X+DCyhFqONooDf9IEFgJXOExW3L3Wb3a0nnnfyr0HqRDiEaoEW2qcVMVHR0CvPhnSp/eEmlvQQ94YDUCH/YVORQoZMD5LteQKiOzSjZbmRbCWxP3hc1A=="
+    },
     {
       "key": "版本信息",
       "name": "版本｜信息",
