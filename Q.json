@@ -1,5 +1,5 @@
 {
-  "spider": "https://raw.githubusercontent.com/Ashbellsama/private/refs/heads/main/jarspider.jar",
+  "spider": "https://raw.githubusercontent.com/Ashbellsama/private/refs/heads/main/jar/spider.jar",
   "wallpaper": "https://imgs.catvod.com",
   "logo": "https://tvbox.catvod.com/logo.png",
   "sites": [
@@ -104,7 +104,7 @@
       "name": "莫小｜影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./lib/莫小影视.json"
+      "ext": "https://gitee.com/Ashbellsama/private/raw/master/lib/莫小影视.json"
     },
     {
       "key": "巧技2",
@@ -123,7 +123,7 @@
       "type": 3,
       "searchable": 1,
       "quickSearch": 0,
-      "api": "./lib/AppV2.py",
+      "api": "https://13826.kstore.vip/AppV2.py",
       "jar": "https://raw.githubusercontent.com/Ashbellsama/private/refs/heads/main/jar/MI.txt",
       "playerType": 2,
       "ext": {
@@ -173,7 +173,7 @@
       "searchable": 0,
       "changeable": 0,
       "indexs": 0,
-      "ext": "./lib/single.json"
+      "ext": "https://pizazz.s3.bitiful.net/single.json"
     }
   ],
   "doh": [
